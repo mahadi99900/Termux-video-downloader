@@ -1,4 +1,0 @@
-pkg update -y
-pkg install python -y
-pip install yt-dlp rich
-termux-setup-storage 
